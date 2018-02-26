@@ -1,0 +1,14 @@
+.psd filter=lfs diff=lfs merge=lfs -text
+activity_user_profile.psd filter=lfs diff=lfs merge=lfs -text
+activity_user_settings.psd filter=lfs diff=lfs merge=lfs -text
+activity_home.psd filter=lfs diff=lfs merge=lfs -text
+activity_map.psd filter=lfs diff=lfs merge=lfs -text
+activity_notifications.psd filter=lfs diff=lfs merge=lfs -text
+activity_phone_auth.psd filter=lfs diff=lfs merge=lfs -text
+activity_user_create.psd filter=lfs diff=lfs merge=lfs -text
+activity_group_create.psd filter=lfs diff=lfs merge=lfs -text
+activity_group_home.psd filter=lfs diff=lfs merge=lfs -text
+activity_otp_verification.psd filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.jpeg filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
